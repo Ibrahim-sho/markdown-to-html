@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;  
+    }
+
+p {
+    text-align: center;
+}    
+body { 
+      background-color: tomato; 
+      width: 300px;
+      margin: auto;
+      font-size: x-large;
+
+}
+.pic {
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      
+}
+
+h2 {
+    text-align: center;  
+    }
+
+ h3 {
+        text-align: center;  
+        }
+
+h4 {
+            text-align: center;  
+     }
+
+h5 {
+    text-align: center;  
+   }            
+
+h6 {
+    text-align: center;  
+    }   
+    table, th, td {
+        border: 1px solid black;
+      }    
